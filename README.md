@@ -1,7 +1,7 @@
 <h1 align="center">Yo! You can call me Pucci Cat</h1>
 
 <p align="center">
-  <img src="./cat.gif" alt="Cat Animation" width="400" />
+  <img src="./cat.gif" alt="Cat Animation" width="300" />
 </p>
 
 ### Skills
