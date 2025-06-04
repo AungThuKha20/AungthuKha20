@@ -1,4 +1,4 @@
-## Yo! You can call me Pucci Cat
+<h1 align="center">## Yo! You can call me Pucci Cat</h1>h1>
 
 <p align="center">
   <img src="./cat.gif" alt="Cat Animation" width="400" />
@@ -7,7 +7,7 @@
 ### Skills
 
 <p align="center">
-  <img src="https://github.com/puccicat/puccicat-readme/raw/main/puccicat_skills_animation.gif" alt="Skills Animation" width="600" />
+  <img src="https://github.com/puccicat/puccicat-readme/raw/main/puccicat_skills_circular_animation.gif" alt="Skills Animation" width="600" />
 </p>
 
 <p align="center">
