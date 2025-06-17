@@ -1,8 +1,10 @@
 
 
 <h1 align="center">Yo! You can call me Pucci Cat</h1>
+<p align="center>
+Passionate about building clean, responsive, and user-friendly web applications. Always learning and improving.</p>
 <p align="center">
-  <img src="./cat.gif" alt="Cat Animation" width="300" />
+  <img src="./cat.gif" alt="Cat Animation" width="200" />
 </p>
 
 ### Skills
