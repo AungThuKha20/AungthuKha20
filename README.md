@@ -8,7 +8,7 @@ Passionate about building clean, responsive, and user-friendly web applications.
   <img src="./cat.gif" alt="Cat Animation" width="200" />
 </p>
 
-### Skills
+<h1 align="center">Skills</h1>
 
 <p align="center">
   <img src="https://github.com/puccicat/puccicat-readme/raw/main/puccicat_skills_circular_animation.gif" alt="Skills Animation" width="600" />
