@@ -1,6 +1,7 @@
 <h1 align="center">Yo! You can call me Pucci Cat</h1>
 <p align="center">
-Passionate about building clean, responsive, and user-friendly web applications. Always learning and improving.
+From building web apps to engineering data pipelines. Currently grinding toward <strong>Data Engineering & AI/ML</strong>.<br />
+Passionate about clean code, scalable systems, and teaching computers to understand language.
 </p>
 <p align="center">
   <img src="./cat.gif" alt="Cat Animation" width="200" />
