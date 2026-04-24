@@ -4,7 +4,7 @@ From building web apps to engineering data pipelines. Currently grinding toward 
 Passionate about clean code, scalable systems, and teaching computers to understand language.
 </p>
 <p align="center">
-  <img src="./cat.gif" alt="Cat Animation" width="200" />
+  <img src="./cat.gif" alt="Cat Animation" width="150" />
 </p>
 
 <h1 align="center">Skills</h1>
