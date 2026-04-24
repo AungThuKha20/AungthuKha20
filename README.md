@@ -42,5 +42,6 @@ Passionate about clean code, scalable systems, and teaching computers to underst
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
+</br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AungThuKha20&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AungThuKha20&theme=tokyonight)
