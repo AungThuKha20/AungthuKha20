@@ -44,6 +44,9 @@ Passionate about clean code, scalable systems, and teaching computers to underst
 </p>
 </br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AungThuKha20&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AungThuKha20&theme=tokyonight)
+<table align="center">
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AungThuKha20&theme=tokyonight" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AungThuKha20&theme=tokyonight" /></td>
+  </tr>
+</table>
