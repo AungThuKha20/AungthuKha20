@@ -43,5 +43,8 @@
 </p>
 
 <br>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AungThuKha20&#x26;theme=tokyonight"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AungThuKha20&#x26;theme=tokyonight">
+</p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AungThuKha20&#x26;theme=tokyonight"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AungThuKha20&#x26;theme=tokyonight">
+
