@@ -44,15 +44,9 @@
 
 <br>
 
-<h2 align="center">📊 Top Languages</h2>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut&theme=tokyonight&hide_progress=false&langs_count=8&card_width=750" alt="Top Languages Donut" />
-</p>
 
-<h2 align="center">🔥 Languages by Usage</h2>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut-vertical&theme=tokyonight&hide_progress=false&langs_count=8" alt="Languages by Usage" />
-</p>
 
 <br>
 
