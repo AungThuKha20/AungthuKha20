@@ -1,48 +1,65 @@
-# Yo! You can call me Pucci Cat
+<h1 align="center">Yo! You can call me Pucci Cat</h1>
 
-From building web apps to engineering data pipelines. Currently grinding toward **Data Engineering ->-> AI/ML**.
+<p align="center">
+  From building web apps to engineering data pipelines. Currently grinding toward <strong>Data Engineering → AI/ML</strong>.<br>
+  Passionate about clean code, scalable systems, and teaching computers to understand language.
+</p>
 
-Passionate about clean code, scalable systems, and teaching computers to understand language.
+<p align="center">
+  <img src="./cat.gif" alt="Cat Animation" width="150" />
+</p>
 
+<h1 align="center">Skills</h1>
 
-  <img src="./cat.gif" alt="Cat Animation" width="150">
+<p align="center">
+  <img src="https://github.com/puccicat/puccicat-readme/raw/main/puccicat_skills_circular_animation.gif" alt="Skills Animation" width="600" />
+</p>
 
-# Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-  <img src="https://github.com/puccicat/puccicat-readme/raw/main/puccicat_skills_circular_animation.gif" alt="Skills Animation" width="600">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&#x26;logo=html5&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&#x26;logo=css3&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&#x26;logo=javascript&#x26;logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&#x26;logo=typescript&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&#x26;logo=mysql&#x26;logoColor=white">
+<br>
 
+<h2 align="center">📊 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut&theme=tokyonight&hide_progress=false&langs_count=8&card_width=750" alt="Top Languages Donut" />
+</p>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&#x26;logo=pandas&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&#x26;logo=numpy&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&#x26;logo=python&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&#x26;logo=python&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&#x26;logo=powerbi&#x26;logoColor=black">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&#x26;logo=microsoft-excel&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&#x26;logo=postgresql&#x26;logoColor=white">
+<h2 align="center">🔥 Languages by Usage</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut-vertical&theme=tokyonight&hide_progress=false&langs_count=8" alt="Languages by Usage" />
+</p>
 
+<br>
 
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&#x26;logo=framer&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&#x26;logo=react&#x26;logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&#x26;logo=git&#x26;logoColor=white">
-
-
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&#x26;logo=tailwind-css&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&#x26;logo=bootstrap&#x26;logoColor=white">
-
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AungThuKha20&#x26;theme=tokyonight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AungThuKha20&#x26;theme=tokyonight">
-
+<p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</p>
