@@ -44,5 +44,4 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&#x26;logo=tailwind-css&#x26;logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&#x26;logo=bootstrap&#x26;logoColor=white">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AungThuKha20&#x26;theme=tokyonight"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AungThuKha20&#x26;theme=tokyonight">
