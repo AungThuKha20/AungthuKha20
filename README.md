@@ -44,9 +44,22 @@ Passionate about clean code, scalable systems, and teaching computers to underst
 </p>
 </br>
 
-<table align="center">
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AungThuKha20&theme=tokyonight" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AungThuKha20&theme=tokyonight" /></td>
-  </tr>
-</table>
+</br>
+
+<h2 align="center">📊 Top Languages</h2>
+
+<p align="center">
+  <!-- Donut Chart - Overall Usage (by bytes) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut&theme=tokyonight&hide_progress=false&langs_count=8" alt="Top Languages Donut" />
+</p>
+
+<p align="center">
+  <!-- Alternative: Vertical Donut or Pie if you prefer -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut-vertical&theme=tokyonight&hide_progress=false" alt="Languages" /> -->
+</p>
+
+<h2 align="center">Most Used Languages by Commits</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut&theme=tokyonight&hide_progress=false&langs_count=8" alt="Most Used by Commits" />
+</p>
