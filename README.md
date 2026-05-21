@@ -44,16 +44,5 @@
 
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut&theme=tokyonight&hide_progress=false&langs_count=8&card_width=750" alt="Top Languages Donut" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungThuKha20&layout=donut-vertical&theme=tokyonight&hide_progress=false&langs_count=8" alt="Languages by Usage" />
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aungthukha20/Aungthukha20/pacman-output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&#x26;logo=tailwind-css&#x26;logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&#x26;logo=bootstrap&#x26;logoColor=white">
