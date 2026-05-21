@@ -1,6 +1,6 @@
 <h1 align="center">Yo! You can call me Pucci Cat</h1>
 <p align="center">
-From building web apps to engineering data pipelines. Currently grinding toward <strong>Data Engineering & AI/ML</strong>.<br />
+From building web apps to engineering data pipelines. Currently grinding toward <strong>Data Engineering ->-> AI/ML</strong>.<br />
 Passionate about clean code, scalable systems, and teaching computers to understand language.
 </p>
 <p align="center">
